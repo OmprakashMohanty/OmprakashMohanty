@@ -1,5 +1,14 @@
-## 💫 About Me:
-#### Hey Folks!  I'm Omprakash Mohanty 👋<br><br>Welcome to my GitHub profile!<br><br>I am a final-year **B.Tech** student at **NIT Rourkela** with a keen interest in **Data Science and Machine Learning**.<br><br>Here, you'll find a collection of projects that showcase my learning journey and hands-on experience in building data pipelines, analyzing data, and developing data-driven solutions. I am passionate about leveraging technology to solve real-world problems and continuously expanding my skill set.<br><br>Feel free to explore my repositories and connect with me. 👨‍💻<br>
+## Hey Folks! 👋 I'm Omprakash Mohanty
+
+I am a final-year B.Tech student at NIT Rourkela, driven by a passion for Data Science, Data Engineering, Machine Learning, and AI. This profile showcases my projects, technical expertise, and my learning journey in the world of data. 🚀
+
+## 👨‍💻 About Me
+
+* 🎓 Final-year B.Tech student at **NIT Rourkela**.
+* 📊 Exploring **Data Science, Data Engineering, and Artificial Intelligence**.
+* 🚀 Passionate about solving real-world problems through data-driven solutions.
+
+#
 
 ## 💻 Technologies and Tools:
 
@@ -11,6 +20,8 @@
 
 ### 🔹 Machine Learning & Development Tools
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+#
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omprakash-mohanty-76a17524a/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omprakashmohenty782@gmail.com)
