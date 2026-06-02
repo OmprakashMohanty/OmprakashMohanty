@@ -1,4 +1,4 @@
-## Hey Folks! 👋 I'm Omprakash Mohanty
+## 👋 Hey Folks! I'm Omprakash Mohanty
 
 I am a final-year B.Tech student at NIT Rourkela, driven by a passion for Data Science, Data Engineering, Machine Learning, and AI. This profile showcases my projects, technical expertise, and my learning journey in the world of data. 🚀
 
